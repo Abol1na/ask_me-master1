@@ -495,7 +495,6 @@ public class WeatherAppWithGUI {
     }
 
     private static String getCurrentTime() {
-        // Implement a method to get the current time in your preferred format (e.g., "yyyy-MM-dd HH:mm:ss")
         return "2023-11-07 12:00:00";
     }
 }
